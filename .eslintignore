@@ -1,0 +1,10 @@
+# Ignorar builds e dependências
+node_modules
+dist
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Configurações de editor
+.vscode

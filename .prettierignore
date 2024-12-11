@@ -1,0 +1,14 @@
+# Ignorar builds e dependências
+node_modules
+dist
+
+# Logs e outros arquivos temporários
+*.log
+*.tmp
+
+# Configurações de editor e de sistema operacional
+.vscode
+.DS_Store
+
+# Arquivos de configuração TypeScript gerados
+types
